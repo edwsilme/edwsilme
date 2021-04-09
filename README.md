@@ -25,10 +25,22 @@ backend and frontend developer
 [![HTML](https://img.shields.io/badge/-JS-yellow)]()
 
 
-:earth_americas: Where to find me...
+### :earth_americas: Where to find me...
+
+Spanish:
 
 [![Web](https://img.shields.io/badge/Mi_Sitio_Web-edwardsilvamejia-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](http://www.geocities.ws/edwardsilvamejia/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eesilvamejia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eesilvamejia/)
 [![YouTube](https://img.shields.io/badge/YouTube-Eddwsilme_Ingeniería-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCnmSVKs4E8lwET4OwQAS5Xg)
+
+English:
+
+...
+
+### :email: Contact me:
+
+[![Email](https://img.shields.io/badge/Gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](edwsilme1013@gmail.com)
+
+
 
 
