@@ -39,7 +39,7 @@ English:
 
 ### :email: Contact me:
 
-[![Email](https://img.shields.io/badge/Gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](edwsilme1013@gmail.com)
+[![Email](https://img.shields.io/badge/edwsilme1013@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](gmail.com)
 
 
 
