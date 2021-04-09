@@ -1,5 +1,5 @@
 
-# Hello, my name is Edward Silva Mejia
+# :wave: Hi there, my name is Edward Silva Mejia
 ## :mortar_board: I am a technologist in Information Systems Analysis and Development.
 
 <!--
@@ -27,7 +27,8 @@ backend and frontend developer
 
 :earth_americas: Where to find me...
 
-[Linkedin](https://www.linkedin.com/in/eesilvamejia/)
-<br>
-[Youtube](https://www.youtube.com/channel/UCnmSVKs4E8lwET4OwQAS5Xg)
+[![Web](https://img.shields.io/badge/Mi_Sitio_Web-edwardsilvamejia-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](http://www.geocities.ws/edwardsilvamejia/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eesilvamejia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eesilvamejia/)
+[![YouTube](https://img.shields.io/badge/YouTube-Eddwsilme_Ingeniería-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCnmSVKs4E8lwET4OwQAS5Xg)
+
 
