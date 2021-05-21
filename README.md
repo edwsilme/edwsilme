@@ -12,7 +12,7 @@
 
 
 
-backend and frontend developer
+Full stack developer
 
 ## Skills:
 
