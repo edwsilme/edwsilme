@@ -1,5 +1,5 @@
 <h1 align="center">
-:wave: Hi there, Hi there! I'm Edward Silva Mejía
+:wave: Hi there! I'm Edward Silva Mejía
 </h1>
 
 <p align="center">
@@ -10,16 +10,16 @@
 <!--
 **edwsilme/edwsilme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br>
 <p>
 ### 🚀 **About Me**
-- 💡 I love exploring new technologies, especially in **Robotics, AI, and IoT**.
-- 📚 Passionate about **software development & electronics**.
-- 🌍 Currently learning **English, Mandarin & Japanese**.
-- 🎸 My hobbies include **reading, listening to music, and playing guitar**.
+<br>
+💡 I love exploring new technologies, especially in **Robotics, AI, and IoT**.
+📚 Passionate about **software development & electronics**.
+🌍 Currently learning **English, Mandarin & Japanese**.
+🎸 My hobbies include **reading, listening to music, and playing guitar**.
 </p>
 
-
-Full stack developer
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
