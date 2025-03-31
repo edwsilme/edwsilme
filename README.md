@@ -1,6 +1,11 @@
+<h1 align="center">
+  # :wave: Hi there, Hi there! I'm Edward Silva Mejía
+</h1>
 
-# :wave: Hi there, my name is Edward Silva Mejia
-## :mortar_board: I am a technologist in Information Systems Analysis and Development.
+<p align="center">
+## :mortar_board: Technologist in Information Systems Analysis and Development <br>
+🖥️ Full-Stack Developer | 🤖 Passionate about Robotics & AI
+</p>
 
 <!--
 **edwsilme/edwsilme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
