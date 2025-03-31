@@ -14,9 +14,9 @@
 <p>
 ### 🚀 **About Me**
 <br>
-💡 I love exploring new technologies, especially in **Robotics, AI, and IoT**.
-📚 Passionate about **software development & electronics**.
-🌍 Currently learning **English, Mandarin & Japanese**.
+💡 I love exploring new technologies, especially in **Robotics, AI, and IoT**.<br>
+📚 Passionate about **software development & electronics**.<br>
+🌍 Currently learning **English, Mandarin & Japanese**.<br>
 🎸 My hobbies include **reading, listening to music, and playing guitar**.
 </p>
 
