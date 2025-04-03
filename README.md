@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4FFFE&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Edward+E.+Silva+Mejia...;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4FFFE&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Edward+E.+Silva+Mejia...;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
 **edwsilme/edwsilme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
