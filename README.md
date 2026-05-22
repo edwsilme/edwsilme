@@ -82,7 +82,7 @@
 <hr>
 
 ### :earth_americas: **Where to find me...**
-🔹 **Website**: [edwardsilvamejia](edwsilme.github.io/portafolio/)
+🔹 **Website**: [edwardsilvamejia](http://edwsilme.github.io/portafolio/)
 🔹 **LinkedIn**: [eesilvamejia](https://www.linkedin.com/in/eesilvamejia/)
 🔹 **YouTube**: [Eddwsilme Ingeniería](https://www.youtube.com/channel/UCnmSVKs4E8lwET4OwQAS5Xg)
 🔹 **Email**: [edw.Develop@outlook.com](edw.Develop@outlook.com)
