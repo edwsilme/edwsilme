@@ -66,17 +66,16 @@
   <h3>⚡ GitHub Stats & Metrics ⚡</h3>
 </div>
 
-<p align="center">
-  <!-- Tarjeta principal de estadísticas generales (Estable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=edwsilme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwsilme&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwsilme&theme=github_dark" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edwsilme&theme=github_dark" >
+  <img src="https://streak-stats.demolab.com?user=edwsilme&theme=tokyonight&hide_border=true" >
+</div>
 
-<p align="center">
-  <!-- Gráfica de actividad de contribuciones (Evita errores de resumen complejos) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwsilme&theme=react-dark&bg_color=20232a&hide_border=true&radius=8" width="100%">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=60&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://github.com/edwsilme/raw/raw/main/img_readme/languages.svg" width="850">
+</div>
 
 ---
 
