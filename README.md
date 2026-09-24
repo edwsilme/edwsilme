@@ -22,26 +22,43 @@
 </div>
 
 <p align="center">
-    <img title="C" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/c.svg">
-    <img title="C++" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/cpp.svg">
-    <img title="C#" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/cSharp.svg">
-    <img title="Python" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/python-original.svg">
-    <img title="Javascript" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/javascript.svg">
-    <img title="HTML5" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/html5.svg">
-    <img title="CSS3" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/css.svg">
-    <img title="React" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/react-original.svg">
-    <img title="AngularJS" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/angularjs.png">
-    <img title="Git" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/git-original.svg">
-    <img title=".NET Core" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/dotnetcore.svg">
-    <img title="SQL Server" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/postgresql.svg">
-    <img title="MySQL" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/mysql.svg">
-    <img title="Java" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/java-original.svg">
-    <img title="Unity" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/unity3d.svg">
-    <img title="Android" height="28" src="https://github.com/edwsilme/raw/badge/main/img_readme/android.svg">
-    <img title="Docker" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/github.svg">
-    <img title="VS Code" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/vscode.png">
-    <img title="Visual Studio" height="28" src="https://github.com/edwsilme/raw/blob/main/img_readme/visualstudio.png">
+  <img src="https://img.shields.io/badge/Repos_Públicos-33-blue?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Enfoque-Full_Stack-orange?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/Rol-Technologist_&_Developer-success?style=for-the-badge&logo=apan&logoColor=white">
 </p>
+
+<br>
+
+<div align="center">
+  <b>Backend Architecture & Databases</b><br>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <b>Frontend & Web Development</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <b>DevOps, Tools & IoT</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
 
 ---
 
